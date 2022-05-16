@@ -8,5 +8,10 @@
 </head>
 <body>
   <h1>Deus é Fiel</h1>
+  <form action="">
+    <label for="">Nome:</label>
+    <input type="text" placeholder="Seu Nome">
+    <input type="submit" value="Enviar">
+  </form>
 </body>
 </html>
